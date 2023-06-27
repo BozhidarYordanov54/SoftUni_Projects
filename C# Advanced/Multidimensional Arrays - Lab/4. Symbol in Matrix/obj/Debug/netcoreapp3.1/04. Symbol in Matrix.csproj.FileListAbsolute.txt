@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.exe
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.deps.json
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.dll
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.pdb
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.dll
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.pdb
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.genruntimeconfig.cache

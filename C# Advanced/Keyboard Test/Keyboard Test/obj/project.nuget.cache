@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z15+LE6s1STGYrnAp6OJYXQJM/P3CUQzKAPbQUZ+88PkPVANJ9rVEM/UU09r89arrJPpEEKFNvUklclTjs947A==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Keyboard Test\\Keyboard Test\\Keyboard Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

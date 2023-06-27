@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/BnNj07v8LD0jn1DUFBQSqsPg9MV33KkgT/rh64vy7fY28saTlenjBYry3FGpb978p2y94Jh+VB6c0OvX+W4lg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Exams\\01. Climb the Peaks\\01. Climb the Peaks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

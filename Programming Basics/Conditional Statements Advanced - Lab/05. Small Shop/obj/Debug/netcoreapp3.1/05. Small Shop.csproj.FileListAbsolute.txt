@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.exe
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.deps.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.runtimeconfig.dev.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\bin\Debug\netcoreapp3.1\05. Small Shop.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.AssemblyInfo.cs
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\05. Small Shop\obj\Debug\netcoreapp3.1\05. Small Shop.genruntimeconfig.cache

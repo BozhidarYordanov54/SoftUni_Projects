@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJjo4dgz39/vsVEP5PIorsjexJFG3ZCDpSKWZV7oqZresn8QAzvxriMrMjrEV550gsSTO33titO7Q8owXeSYOQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Lab Functional Programming\\1. Sort Even Numbers\\1. Sort Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kroNt9EMPEQ4XjcgnSi7UHZ90Mn/jzSc1BdPApiPypszrtlUIgecGJlt5WLYHINmH2GWX/fpFS+UvwrloBgUrg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# OOP\\Inheritance - Lab\\05. Stack of Strings\\05. Stack of Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

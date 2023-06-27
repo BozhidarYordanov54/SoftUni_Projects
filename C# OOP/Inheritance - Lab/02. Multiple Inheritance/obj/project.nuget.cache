@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UWpqN6drSGEA+rxoWODHBOX6fIHOt1eapLaNVdapLUExRb5vXRPirlCJCQ/hJ07VFfdvbNzwV2kY2BPYgBBqgg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# OOP\\Inheritance - Lab\\02. Multiple Inheritance\\02. Multiple Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

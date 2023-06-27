@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.exe
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.deps.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.runtimeconfig.dev.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.AssemblyInfo.cs
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable.genruntimeconfig.cache

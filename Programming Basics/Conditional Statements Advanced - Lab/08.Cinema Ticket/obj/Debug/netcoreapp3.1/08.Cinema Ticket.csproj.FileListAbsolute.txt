@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.exe
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.deps.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.runtimeconfig.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.runtimeconfig.dev.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\bin\Debug\netcoreapp3.1\08.Cinema Ticket.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.AssemblyInfo.cs
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\08.Cinema Ticket\obj\Debug\netcoreapp3.1\08.Cinema Ticket.genruntimeconfig.cache

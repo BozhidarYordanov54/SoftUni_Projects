@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.exe
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.deps.json
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.dll
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\bin\Debug\net6.0\RobotService.pdb
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.dll
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\refint\RobotService.dll
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.pdb
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\RobotService_Skeleton_6.0\obj\Debug\net6.0\ref\RobotService.dll

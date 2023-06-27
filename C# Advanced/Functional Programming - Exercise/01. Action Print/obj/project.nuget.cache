@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "73eHNE4OQpHaj+8CE1tlNKNE+58LA05dg3hv5+G7VgCTQepUzMNDKC5wvc3aklSZf1ClaG0dILb81xFFpM73hg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Functional Programming - Exercise\\01. Action Print\\01. Action Print.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

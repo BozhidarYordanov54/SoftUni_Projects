@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.exe
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.deps.json
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.dll
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp3.1\01. Sum Matrix Elements.pdb
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.dll
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.pdb
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp3.1\01. Sum Matrix Elements.genruntimeconfig.cache

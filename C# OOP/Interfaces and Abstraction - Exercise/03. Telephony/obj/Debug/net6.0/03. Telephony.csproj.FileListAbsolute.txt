@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\03. Telephony.exe
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\03. Telephony.deps.json
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\03. Telephony.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\03. Telephony.dll
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\net6.0\03. Telephony.pdb
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\03. Telephony.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\03. Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\03. Telephony.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\03. Telephony.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\03. Telephony.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\03. Telephony.dll
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\refint\03. Telephony.dll
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\03. Telephony.pdb
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\03. Telephony.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\net6.0\ref\03. Telephony.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FBR5Cw6kvMzbU4BCpodeGSkAl4C/IDyEGKkehZbi1dbbIwpvzsTKwBOD69GwnzRXbktXhkip/aYA1lI438n79A==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# OOP\\Inheritance - Lab\\03. Hierarchical Inheritance\\03. Hierarchical Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

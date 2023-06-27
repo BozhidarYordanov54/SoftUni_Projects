@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dd1B63yYW9korJRFerIIk/FNyQVrPG4TnBvOIr643toYdBNBB2CVIi9D4urcewvN1myhgVMbnmSOUo69fBHrNw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Multidimensional Arrays - Exercise\\04. Matrix Shuffling\\04. Matrix Shuffling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

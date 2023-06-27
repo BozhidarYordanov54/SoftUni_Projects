@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.exe
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.deps.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.runtimeconfig.dev.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\bin\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.AssemblyInfo.cs
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.dll
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.pdb
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\08. Basketball Equipment\obj\Debug\netcoreapp3.1\08. Basketball Equipment.genruntimeconfig.cache

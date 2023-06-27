@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.exe
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.deps.json
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.dll
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\bin\Debug\netcoreapp3.1\07. Hot Potato.pdb
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.dll
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.pdb
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\07. Hot Potato\obj\Debug\netcoreapp3.1\07. Hot Potato.genruntimeconfig.cache

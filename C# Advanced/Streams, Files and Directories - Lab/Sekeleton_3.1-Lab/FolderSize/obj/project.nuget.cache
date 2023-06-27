@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvsW/pO9bnm3FLkPcRDY3TDTaZ7+n2q8A3V93cIvAPFHrj10gSdGILzC6Z3yZdvfF6zAJas674BPSXKwtQl/hw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Streams, Files and Directories - Lab\\Sekeleton_3.1-Lab\\FolderSize\\FolderSize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

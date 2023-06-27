@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.exe
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.deps.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.runtimeconfig.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.runtimeconfig.dev.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.dll
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\bin\Debug\netcoreapp3.1\07. Food Delivery.pdb
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.AssemblyInfo.cs
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.dll
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.pdb
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\07. Food Delivery\obj\Debug\netcoreapp3.1\07. Food Delivery.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\bin\Debug\netcoreapp3.1\Fields.exe
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\bin\Debug\netcoreapp3.1\Fields.deps.json
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\bin\Debug\netcoreapp3.1\Fields.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\bin\Debug\netcoreapp3.1\Fields.dll
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\bin\Debug\netcoreapp3.1\Fields.pdb
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\obj\Debug\netcoreapp3.1\Fields.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\obj\Debug\netcoreapp3.1\Fields.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\obj\Debug\netcoreapp3.1\Fields.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\obj\Debug\netcoreapp3.1\Fields.dll
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\obj\Debug\netcoreapp3.1\Fields.pdb
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Fields\obj\Debug\netcoreapp3.1\Fields.genruntimeconfig.cache

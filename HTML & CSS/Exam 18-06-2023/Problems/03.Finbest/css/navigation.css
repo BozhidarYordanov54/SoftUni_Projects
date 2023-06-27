@@ -1,0 +1,28 @@
+.main-nav{
+    display: flex;
+    gap: 50em;
+    padding: 2.5em;
+}
+
+.main-nav a{
+    text-decoration: none;
+    color: #000;
+}
+
+.sign-up{
+    padding: 0.8em;
+    border-radius: .5em;
+    background: rgba(173, 226, 223, 1);
+    margin-left: 2em;
+}
+
+.main-nav ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10em;
+    gap: 4em;
+}
+
+ul{
+    list-style-type: none;
+}

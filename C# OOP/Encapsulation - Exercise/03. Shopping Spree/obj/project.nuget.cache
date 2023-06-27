@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXWE2xJigp4rxZ/nL0/CrEn6gy1icLSb43P4lJcKlj2ULu2ySnhpo8zMVL3wS986+U+QP3/HS4VxSBOfrC1wWQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# OOP\\Encapsulation - Exercise\\03. Shopping Spree\\03. Shopping Spree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

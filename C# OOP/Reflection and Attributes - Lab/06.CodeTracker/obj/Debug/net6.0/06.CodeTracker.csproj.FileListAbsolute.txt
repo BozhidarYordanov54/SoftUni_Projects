@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.exe
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.deps.json
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.dll
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\bin\Debug\net6.0\06.CodeTracker.pdb
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.dll
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\refint\06.CodeTracker.dll
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.pdb
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\06.CodeTracker.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\06.CodeTracker\obj\Debug\net6.0\ref\06.CodeTracker.dll

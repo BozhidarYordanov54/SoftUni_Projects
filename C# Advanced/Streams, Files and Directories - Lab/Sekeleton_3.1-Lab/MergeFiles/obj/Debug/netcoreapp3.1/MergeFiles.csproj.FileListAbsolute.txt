@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+D:\SoftUni_Projects\C# Advanced\Streams, Files and Directories - Lab\Sekeleton_3.1-Lab\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache

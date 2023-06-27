@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.exe
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.deps.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.runtimeconfig.dev.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\bin\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.AssemblyInfo.cs
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.dll
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.pdb
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\02. Radians to Degrees\obj\Debug\netcoreapp3.1\02. Radians to Degrees.genruntimeconfig.cache

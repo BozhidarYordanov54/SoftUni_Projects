@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqjiTAVd50Bsz18JimMUDw2rIG8ThBoitBxLsGd9FdoZisFsoM8r3k9IG77mdHViviDB1im6mp/wFchqBKbMnA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Streams, Files and Directories - Lab\\Sekeleton_3.1-Lab\\SplitMergeBinaryFile\\SplitMergeBinaryFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

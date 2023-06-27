@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.AssemblyInfo.cs
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.exe
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.deps.json
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.runtimeconfig.json
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.runtimeconfig.dev.json
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.dll
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\bin\Debug\netcoreapp3.1\03.Time+15 Minutes.pdb
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.dll
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.pdb
+D:\SoftUni_Projects\Conditional Statements - Exercise\03.Time+15 Minutes\obj\Debug\netcoreapp3.1\03.Time+15 Minutes.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.exe
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.deps.json
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.dll
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\net6.0\02. Multiple Implementation.pdb
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.dll
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\refint\02. Multiple Implementation.dll
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.pdb
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\02. Multiple Implementation.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\net6.0\ref\02. Multiple Implementation.dll

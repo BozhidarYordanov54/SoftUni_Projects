@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.exe
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.deps.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.runtimeconfig.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.runtimeconfig.dev.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.AssemblyInfo.cs
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.genruntimeconfig.cache

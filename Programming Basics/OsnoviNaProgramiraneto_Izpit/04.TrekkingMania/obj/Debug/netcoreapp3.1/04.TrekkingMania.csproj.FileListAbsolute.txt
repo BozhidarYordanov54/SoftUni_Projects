@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\bin\Debug\netcoreapp3.1\04.TrekkingMania.exe
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\bin\Debug\netcoreapp3.1\04.TrekkingMania.deps.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\bin\Debug\netcoreapp3.1\04.TrekkingMania.runtimeconfig.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\bin\Debug\netcoreapp3.1\04.TrekkingMania.runtimeconfig.dev.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\bin\Debug\netcoreapp3.1\04.TrekkingMania.dll
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\bin\Debug\netcoreapp3.1\04.TrekkingMania.pdb
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\obj\Debug\netcoreapp3.1\04.TrekkingMania.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\obj\Debug\netcoreapp3.1\04.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\obj\Debug\netcoreapp3.1\04.TrekkingMania.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\obj\Debug\netcoreapp3.1\04.TrekkingMania.AssemblyInfo.cs
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\obj\Debug\netcoreapp3.1\04.TrekkingMania.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\obj\Debug\netcoreapp3.1\04.TrekkingMania.dll
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\obj\Debug\netcoreapp3.1\04.TrekkingMania.pdb
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\04.TrekkingMania\obj\Debug\netcoreapp3.1\04.TrekkingMania.genruntimeconfig.cache

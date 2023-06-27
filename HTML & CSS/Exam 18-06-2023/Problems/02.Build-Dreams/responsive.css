@@ -1,0 +1,8 @@
+@media (width <= 600px){
+    
+    
+
+  .home-hero{
+    flex-direction: column;
+  }
+}

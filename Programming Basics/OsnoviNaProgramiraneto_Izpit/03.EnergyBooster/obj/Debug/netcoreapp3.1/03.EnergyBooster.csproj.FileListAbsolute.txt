@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.exe
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.deps.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.runtimeconfig.dev.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.dll
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\bin\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.AssemblyInfo.cs
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.dll
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.pdb
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\03.EnergyBooster\obj\Debug\netcoreapp3.1\03.EnergyBooster.genruntimeconfig.cache

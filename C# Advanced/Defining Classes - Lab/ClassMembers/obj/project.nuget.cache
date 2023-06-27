@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLAsrTp3gjP1D8I44x87/0oXnT6G2YRLCEf66zDv43AcgiD0nIoQ7FfSVG3otvgHp8EvX6fLUxf1EiJfniUM/g==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Defining Classes - Lab\\ClassMembers\\ClassMembers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+usdvDxEuMptPAZLuwVybpwxZE+UoOpwYBDLRCnbQJD6LQStft0djbLFvdhthK9O5dR7QGr/3OMiaa7aRd5Iw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\CSharp Advanced Exam - 14 December 2022\\ShoeStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

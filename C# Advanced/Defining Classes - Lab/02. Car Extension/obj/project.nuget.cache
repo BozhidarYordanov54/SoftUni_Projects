@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JsiUP/kMCNsngdt598e2KS1dKwSib0E6oSJxr9bgSsEWnkK4NBY90OK76Ai+B+4IZL6uf+AMup1qiHlAif9VRw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Defining Classes - Lab\\02. Car Extension\\02. Car Extension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

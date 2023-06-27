@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\bin\Debug\netcoreapp3.1\02. Array Creator.exe
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\bin\Debug\netcoreapp3.1\02. Array Creator.deps.json
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\bin\Debug\netcoreapp3.1\02. Array Creator.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\bin\Debug\netcoreapp3.1\02. Array Creator.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\bin\Debug\netcoreapp3.1\02. Array Creator.dll
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\bin\Debug\netcoreapp3.1\02. Array Creator.pdb
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.dll
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.pdb
+D:\SoftUni_Projects\C# Advanced\01. Box\02. Array Creator\obj\Debug\netcoreapp3.1\02. Array Creator.genruntimeconfig.cache

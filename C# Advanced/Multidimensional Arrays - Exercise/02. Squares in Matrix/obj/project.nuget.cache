@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGNtMVNGmdfpMH4F3hO1SLSRD3o9/mG9lwe2I7FxoJZls1TJ2g0EMvVkoz3Zq5TyX0zcjp0pYLHLOGo1rQdDfw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Multidimensional Arrays - Exercise\\02. Squares in Matrix\\02. Squares in Matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

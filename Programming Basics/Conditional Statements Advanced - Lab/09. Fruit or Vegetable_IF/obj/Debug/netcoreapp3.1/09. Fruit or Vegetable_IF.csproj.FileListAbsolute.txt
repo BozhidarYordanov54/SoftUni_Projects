@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.exe
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.deps.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.runtimeconfig.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.runtimeconfig.dev.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\bin\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.AssemblyInfo.cs
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\09. Fruit or Vegetable_IF\obj\Debug\netcoreapp3.1\09. Fruit or Vegetable_IF.genruntimeconfig.cache

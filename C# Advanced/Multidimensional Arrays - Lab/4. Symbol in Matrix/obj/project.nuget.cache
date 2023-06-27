@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XGwhBAhxsTiTaVQoB8kD1uu+LL1AahnInY/9Jn1KODXBhZ4pgNTmLb1bJzqerw8poFZK/5AAJjZlkaKO9eAyIA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Multidimensional Arrays - Lab\\4. Symbol in Matrix\\04. Symbol in Matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

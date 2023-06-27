@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.exe
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.deps.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.runtimeconfig.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.runtimeconfig.dev.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.dll
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\bin\Debug\netcoreapp3.1\05.SuitcasesLoad.pdb
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.AssemblyInfo.cs
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.dll
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.pdb
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\05.SuitcasesLoad\obj\Debug\netcoreapp3.1\05.SuitcasesLoad.genruntimeconfig.cache

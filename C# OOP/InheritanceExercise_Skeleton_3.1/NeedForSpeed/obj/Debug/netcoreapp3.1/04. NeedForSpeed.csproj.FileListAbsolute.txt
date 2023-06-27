@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\bin\Debug\netcoreapp3.1\04. NeedForSpeed.exe
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\bin\Debug\netcoreapp3.1\04. NeedForSpeed.deps.json
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\bin\Debug\netcoreapp3.1\04. NeedForSpeed.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\bin\Debug\netcoreapp3.1\04. NeedForSpeed.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\bin\Debug\netcoreapp3.1\04. NeedForSpeed.dll
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\bin\Debug\netcoreapp3.1\04. NeedForSpeed.pdb
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\obj\Debug\netcoreapp3.1\04. NeedForSpeed.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\obj\Debug\netcoreapp3.1\04. NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\obj\Debug\netcoreapp3.1\04. NeedForSpeed.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\obj\Debug\netcoreapp3.1\04. NeedForSpeed.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\obj\Debug\netcoreapp3.1\04. NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\obj\Debug\netcoreapp3.1\04. NeedForSpeed.dll
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\obj\Debug\netcoreapp3.1\04. NeedForSpeed.pdb
+D:\SoftUni_Projects\C# OOP\InheritanceExercise_Skeleton_3.1\NeedForSpeed\obj\Debug\netcoreapp3.1\04. NeedForSpeed.genruntimeconfig.cache

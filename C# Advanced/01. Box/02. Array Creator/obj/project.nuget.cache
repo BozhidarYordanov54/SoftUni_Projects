@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzIXUYC7+NzXorkuCwyCeW12HHujfyfHZ2eDPHS8nE77aZonDDRPZnrc7/U3nxs/jZnhbHTXnu+A1DD24/jFhw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\01. Box\\02. Array Creator\\02. Array Creator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

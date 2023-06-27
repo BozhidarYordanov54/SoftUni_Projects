@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.exe
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.deps.json
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.dll
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.pdb
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.dll
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.pdb
+D:\SoftUni_Projects\C# Advanced\Stacks and Queues - Lab\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.genruntimeconfig.cache

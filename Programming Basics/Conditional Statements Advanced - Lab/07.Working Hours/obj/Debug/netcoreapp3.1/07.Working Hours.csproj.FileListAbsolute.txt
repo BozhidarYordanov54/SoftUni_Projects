@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.exe
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.deps.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.runtimeconfig.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.runtimeconfig.dev.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\bin\Debug\netcoreapp3.1\07.Working Hours.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.AssemblyInfo.cs
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\07.Working Hours\obj\Debug\netcoreapp3.1\07.Working Hours.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\net6.0\01.Stealer.exe
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\net6.0\01.Stealer.deps.json
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\net6.0\01.Stealer.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\net6.0\01.Stealer.dll
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\net6.0\01.Stealer.pdb
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\01.Stealer.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\01.Stealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\01.Stealer.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\01.Stealer.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\01.Stealer.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\01.Stealer.dll
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\refint\01.Stealer.dll
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\01.Stealer.pdb
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\01.Stealer.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\net6.0\ref\01.Stealer.dll

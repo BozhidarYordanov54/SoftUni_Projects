@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EuLUAhCz57Jcd88Ua0YNtS5xOEz20ci41jcBvdo/SC9ZBeflpsfTFxV9tut3ig0lRHJCzaFhLxVCEQzmt6bpJA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\CSharp Advanced Exam - 14 December 2022\\02. Navy Battle\\02. Navy Battle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

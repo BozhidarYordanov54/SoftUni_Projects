@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.exe
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.deps.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.runtimeconfig.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.runtimeconfig.dev.json
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.dll
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\bin\Debug\netcoreapp3.1\02.MountainRun.pdb
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.AssemblyInfo.cs
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.dll
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.pdb
+D:\SoftUni_Projects\OsnoviNaProgramiraneto_Izpit\02.MountainRun\obj\Debug\netcoreapp3.1\02.MountainRun.genruntimeconfig.cache

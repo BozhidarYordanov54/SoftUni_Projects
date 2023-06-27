@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.exe
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.deps.json
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.dll
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.pdb
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.dll
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\refint\05.BirthdayCelebrations.dll
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.pdb
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\ref\05.BirthdayCelebrations.dll

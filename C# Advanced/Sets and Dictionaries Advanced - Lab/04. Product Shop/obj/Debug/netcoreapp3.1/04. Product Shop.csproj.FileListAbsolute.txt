@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.exe
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.deps.json
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.dll
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.pdb
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.dll
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.pdb
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.genruntimeconfig.cache

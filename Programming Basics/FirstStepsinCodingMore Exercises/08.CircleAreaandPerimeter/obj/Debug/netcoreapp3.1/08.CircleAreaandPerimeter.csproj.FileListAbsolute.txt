@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.exe
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.deps.json
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.runtimeconfig.json
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.runtimeconfig.dev.json
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.dll
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.pdb
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.AssemblyInfo.cs
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.dll
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.pdb
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\08.CircleAreaandPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaandPerimeter.genruntimeconfig.cache

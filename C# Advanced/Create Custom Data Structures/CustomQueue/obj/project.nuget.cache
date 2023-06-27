@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzlPWz9Vej+srC/TWOC/FZ31KSDx0gNHeC7oqB8Xj+cqB3bj6mLIuvJj6S8GfdvEiKQdXJyRYUC720+d0pigEQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Create Custom Data Structures\\CustomQueue\\CustomQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

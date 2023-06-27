@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "paiUqWhl0VUHlq0pyvXh4UNtQCF+VAXTlYQYJDFld2ounKVlD7LZH+8IrTgEcYvkL7YhUSuJhuvhpqNvS7W35g==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Multidimensional Arrays - Lab\\07. Pascal Triangle\\07. Pascal Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

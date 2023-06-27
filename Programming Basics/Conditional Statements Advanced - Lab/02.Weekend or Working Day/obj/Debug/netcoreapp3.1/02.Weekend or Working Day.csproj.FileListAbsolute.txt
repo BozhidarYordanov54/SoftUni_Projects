@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.exe
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.deps.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.runtimeconfig.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.runtimeconfig.dev.json
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\bin\Debug\netcoreapp3.1\02.Weekend or Working Day.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.AssemblyInfo.cs
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.dll
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.pdb
+D:\SoftUni_Projects\Conditional Statements Advanced - Lab\02.Weekend or Working Day\obj\Debug\netcoreapp3.1\02.Weekend or Working Day.genruntimeconfig.cache

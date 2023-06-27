@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4+wpsUzpmxvDR/sa8EKx6D5De+3NMIZkkqXD3aICp1hWKzZw1I3VV5o/A11YNE/GQp5UMhwtRibIPn67yTDZBQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# OOP\\InheritanceExercise_Skeleton_3.1\\PlayersAndMonsters\\03. PlayersAndMonsters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

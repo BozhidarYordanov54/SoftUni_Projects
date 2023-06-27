@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8dvtj1WcD90m16LLyxDVNZeMjJNwa7a2yj10LP28tto2ZYnQoDdz0E6dukhAgh3wRXqdg73JMOaUCKsDSajaUw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Streams, Files and Directories - Lab\\Sekeleton_3.1-Lab\\MergeFiles\\MergeFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

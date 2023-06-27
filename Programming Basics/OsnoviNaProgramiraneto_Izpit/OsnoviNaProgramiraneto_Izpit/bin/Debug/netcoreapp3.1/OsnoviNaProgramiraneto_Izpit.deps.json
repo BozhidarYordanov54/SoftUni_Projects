@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OsnoviNaProgramiraneto_Izpit/1.0.0": {
+        "runtime": {
+          "OsnoviNaProgramiraneto_Izpit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OsnoviNaProgramiraneto_Izpit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

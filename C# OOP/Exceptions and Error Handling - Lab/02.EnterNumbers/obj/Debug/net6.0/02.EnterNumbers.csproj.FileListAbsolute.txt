@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.exe
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.deps.json
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.dll
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.pdb
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.dll
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\refint\02.EnterNumbers.dll
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.pdb
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\ref\02.EnterNumbers.dll

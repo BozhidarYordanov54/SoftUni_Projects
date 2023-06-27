@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QGFKU6fvojpBTg926xRkkjoATHg3CBJINjcdYQXKZbPV6W2ERX4MJZ0sIgD0g96u+6ywvDbiyJD0FQWGicC7pQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Iterators and Comparators - Lab\\01. Library\\01. Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

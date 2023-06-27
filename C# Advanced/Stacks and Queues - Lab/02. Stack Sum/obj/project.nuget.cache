@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9+k25Eoy8LFp7oZFuP89YxXietBxSJXsURSrF8kBFu6Da+s1KMMwEoMFOpewED9SUzRMwGGwZRC2sGpPlJn3w==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Stacks and Queues - Lab\\02. Stack Sum\\02. Stack Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

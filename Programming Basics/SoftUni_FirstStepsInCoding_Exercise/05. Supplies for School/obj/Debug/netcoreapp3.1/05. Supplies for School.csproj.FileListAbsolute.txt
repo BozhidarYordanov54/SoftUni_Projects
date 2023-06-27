@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.exe
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.deps.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.runtimeconfig.dev.json
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.dll
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\bin\Debug\netcoreapp3.1\05. Supplies for School.pdb
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.AssemblyInfo.cs
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.dll
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.pdb
+D:\SoftUni_Projects\SoftUni_FirstStepsInCoding_Exercise\05. Supplies for School\obj\Debug\netcoreapp3.1\05. Supplies for School.genruntimeconfig.cache

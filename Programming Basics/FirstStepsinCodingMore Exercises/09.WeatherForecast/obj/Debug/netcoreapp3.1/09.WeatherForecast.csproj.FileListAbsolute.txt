@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.exe
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.deps.json
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.runtimeconfig.json
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.runtimeconfig.dev.json
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.dll
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\bin\Debug\netcoreapp3.1\09.WeatherForecast.pdb
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.AssemblyInfo.cs
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.dll
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.pdb
+D:\SoftUni_Projects\FirstStepsinCodingMore Exercises\09.WeatherForecast\obj\Debug\netcoreapp3.1\09.WeatherForecast.genruntimeconfig.cache

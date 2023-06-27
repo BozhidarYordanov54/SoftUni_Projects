@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\bin\Debug\net6.0\ShapeDrawing.exe
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\bin\Debug\net6.0\ShapeDrawing.deps.json
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\bin\Debug\net6.0\ShapeDrawing.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\bin\Debug\net6.0\ShapeDrawing.dll
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\bin\Debug\net6.0\ShapeDrawing.pdb
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\ShapeDrawing.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\ShapeDrawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\ShapeDrawing.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\ShapeDrawing.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\ShapeDrawing.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\ShapeDrawing.dll
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\refint\ShapeDrawing.dll
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\ShapeDrawing.pdb
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\ShapeDrawing.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\ShapeDrawing\obj\Debug\net6.0\ref\ShapeDrawing.dll

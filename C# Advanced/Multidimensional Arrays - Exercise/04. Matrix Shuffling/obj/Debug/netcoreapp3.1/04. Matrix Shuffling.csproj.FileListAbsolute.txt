@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.exe
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.deps.json
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.dll
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\bin\Debug\netcoreapp3.1\04. Matrix Shuffling.pdb
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.dll
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.pdb
+D:\SoftUni_Projects\C# Advanced\Multidimensional Arrays - Exercise\04. Matrix Shuffling\obj\Debug\netcoreapp3.1\04. Matrix Shuffling.genruntimeconfig.cache

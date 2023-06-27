@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ql+4eFrOd5v9CqF/3WAfxSwEi3UOebQjDDKziK9Xu7oXl9HuWoMZ1metPC2Mpt771fRaU8/CvC6gZb1kXrPrDg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Functional Programming - Exercise\\06. Reverse And Exclude\\06. Reverse And Exclude.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.exe
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.deps.json
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.dll
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\bin\Debug\netcoreapp3.1\02. Navy Battle.pdb
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.dll
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.pdb
+D:\SoftUni_Projects\C# Advanced\CSharp Advanced Exam - 14 December 2022\02. Navy Battle\obj\Debug\netcoreapp3.1\02. Navy Battle.genruntimeconfig.cache

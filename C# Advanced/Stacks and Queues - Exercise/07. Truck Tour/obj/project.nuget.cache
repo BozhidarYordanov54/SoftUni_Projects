@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P6AX+WG+B1Ww4+OH9W2Cl60NIPXg0MYZFXau/diA2GjtrCPouFnLSGjbZg4AdSlllNcctaha1MNStbzlIRTXLQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Stacks and Queues - Exercise\\07. Truck Tour\\07. Truck Tour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

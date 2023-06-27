@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxzYVvpou/cOm/8HjLEOXd1wpasPhJpZ9tExk5TQMf4mhjHK4hsUuKrCV1YLmFa4sQ4tZ5rynAfT3zlQ7+8wvg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Stacks and Queues - Lab\\07. Hot Potato\\07. Hot Potato.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

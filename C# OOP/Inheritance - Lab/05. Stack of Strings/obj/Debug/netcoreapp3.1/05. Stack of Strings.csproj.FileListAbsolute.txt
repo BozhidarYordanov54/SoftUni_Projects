@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.exe
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.deps.json
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.dll
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp3.1\05. Stack of Strings.pdb
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.dll
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.pdb
+D:\SoftUni_Projects\C# OOP\Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp3.1\05. Stack of Strings.genruntimeconfig.cache

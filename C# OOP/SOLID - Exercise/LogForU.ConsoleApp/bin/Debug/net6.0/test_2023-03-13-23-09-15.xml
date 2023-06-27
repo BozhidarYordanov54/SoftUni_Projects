@@ -1,0 +1,12 @@
+<log>
+	<date>3/31/2015 5:23:54 PM</date>
+	<level>Fatal</level>
+	<message>microlib.dll does not respond</message>
+</log>
+
+<log>
+	<date>3/31/2015 5:23:54 PM</date>
+	<level>Critical</level>
+	<message>No connection string found in App.config</message>
+</log>
+

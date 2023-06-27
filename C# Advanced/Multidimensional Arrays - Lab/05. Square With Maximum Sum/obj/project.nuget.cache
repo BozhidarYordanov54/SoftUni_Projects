@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FnLEU9oU0p/DT2kSgNCGBcqxAdRMbslCH1bA1tL+VzJbkh8+KDHoZ63otFiwfFhqgftBlhBxgjO6qh1g04vODA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Multidimensional Arrays - Lab\\05. Square With Maximum Sum\\05. Square With Maximum Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

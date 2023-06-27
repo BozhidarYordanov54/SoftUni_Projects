@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.exe
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.deps.json
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.json
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.runtimeconfig.dev.json
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.dll
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\bin\Debug\netcoreapp3.1\06. Speed Info.pdb
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.AssemblyInfo.cs
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.dll
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.pdb
+D:\SoftUni_Projects\Conditional Statements - Lab\06. Speed Info\obj\Debug\netcoreapp3.1\06. Speed Info.genruntimeconfig.cache

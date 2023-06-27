@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\bin\Debug\netcoreapp3.1\Classes - Mid.exe
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\bin\Debug\netcoreapp3.1\Classes - Mid.deps.json
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\bin\Debug\netcoreapp3.1\Classes - Mid.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\bin\Debug\netcoreapp3.1\Classes - Mid.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\bin\Debug\netcoreapp3.1\Classes - Mid.dll
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\bin\Debug\netcoreapp3.1\Classes - Mid.pdb
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\obj\Debug\netcoreapp3.1\Classes - Mid.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\obj\Debug\netcoreapp3.1\Classes - Mid.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\obj\Debug\netcoreapp3.1\Classes - Mid.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\obj\Debug\netcoreapp3.1\Classes - Mid.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\obj\Debug\netcoreapp3.1\Classes - Mid.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\obj\Debug\netcoreapp3.1\Classes - Mid.dll
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\obj\Debug\netcoreapp3.1\Classes - Mid.pdb
+D:\SoftUni_Projects\C# Advanced\Defining Classes - Lab\Classes - Mid\obj\Debug\netcoreapp3.1\Classes - Mid.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g4hasPotHgJCbqOTg5cAFVvmIE/+/sjOL7a7zQZvNPHNayVKgcyilX/9PcWoryXfSo06s2+npY5Orlt1JGm9rA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Create Custom Data Structures\\Create Custom Data Structures\\CustomList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

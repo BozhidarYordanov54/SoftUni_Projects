@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPhXDuRNQ37ebpdgDoDBbQj12aO4rf0TaiUnlA0sP+Nwe1eoxb0g8b7Vue63q61eVNwVFjkokHxQepcI7HDgOA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Functional Programming - Exercise\\08. List Of Predicates\\08. List Of Predicates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

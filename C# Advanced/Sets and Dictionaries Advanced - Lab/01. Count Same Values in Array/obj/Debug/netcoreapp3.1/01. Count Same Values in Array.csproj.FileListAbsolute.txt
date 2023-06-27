@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.exe
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.deps.json
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.dll
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.pdb
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.dll
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.pdb
+D:\SoftUni_Projects\C# Advanced\Sets and Dictionaries Advanced - Lab\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.genruntimeconfig.cache

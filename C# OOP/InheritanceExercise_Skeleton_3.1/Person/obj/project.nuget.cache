@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LH95IigdJ3mxUUYChNyxJepoJtwWRVtDiV3re/S60FVq67D7fkKYxJdEpXqpcVaKj73njUsic0tI4ERGrfOlpw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# OOP\\InheritanceExercise_Skeleton_3.1\\Person\\01. Person.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

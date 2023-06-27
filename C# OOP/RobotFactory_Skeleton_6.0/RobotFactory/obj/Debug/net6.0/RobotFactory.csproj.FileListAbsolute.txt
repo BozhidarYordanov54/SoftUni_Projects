@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.exe
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.deps.json
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.dll
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\bin\Debug\net6.0\RobotFactory.pdb
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.dll
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\refint\RobotFactory.dll
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.pdb
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\RobotFactory.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\RobotFactory_Skeleton_6.0\RobotFactory\obj\Debug\net6.0\ref\RobotFactory.dll

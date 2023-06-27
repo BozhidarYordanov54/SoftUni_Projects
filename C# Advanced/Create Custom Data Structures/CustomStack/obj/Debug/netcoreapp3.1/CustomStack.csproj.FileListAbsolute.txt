@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+D:\SoftUni_Projects\C# Advanced\Create Custom Data Structures\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache

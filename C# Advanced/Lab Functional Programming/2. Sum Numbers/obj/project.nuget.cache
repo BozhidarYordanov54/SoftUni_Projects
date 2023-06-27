@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ya+KsD2i4QKcAyMYVqK6LdrfB9rML3sEO1lvdd02LpxacK8eF7q4d/XGfY4h/UH5loAV8hYLwHunOSnYw3uQNA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# Advanced\\Lab Functional Programming\\2. Sum Numbers\\2. Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\Reflection and Attributes - Exercises\08. CSharp-OOP-Reflection-and-Attributes-Exercise-Skeleton_6.0\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll

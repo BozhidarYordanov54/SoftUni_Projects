@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQxfxvKX3TuTsLfDDmh8iMiPAedUGkgoS9XU/O7f4q2a+UViQ3GqvrtcScXEY+c7UvFYjH2V/o18W2ZnIMWZgQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni_Projects\\C# OOP\\InheritanceExercise_Skeleton_3.1\\Restaurant\\05. Restaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UserPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

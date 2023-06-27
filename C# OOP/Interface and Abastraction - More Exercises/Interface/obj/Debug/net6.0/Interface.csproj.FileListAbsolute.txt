@@ -1,0 +1,15 @@
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\bin\Debug\net6.0\Interface.exe
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\bin\Debug\net6.0\Interface.dll
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\bin\Debug\net6.0\Interface.pdb
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\Interface.dll
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\Interface.pdb
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
+D:\SoftUni_Projects\C# OOP\Interface and Abastraction - More Exercises\Interface\obj\Debug\net6.0\ref\Interface.dll
