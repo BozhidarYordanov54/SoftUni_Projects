@@ -1,0 +1,22 @@
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\02. Villain Name.exe
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\02. Villain Name.deps.json
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\02. Villain Name.runtimeconfig.json
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\02. Villain Name.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\02. Villain Name.pdb
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\02. Villain Name.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\02. Villain Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\02. Villain Name.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\02. Villain Name.AssemblyInfo.cs
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\02. Villain Name.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\02. Villain Name.csproj.CopyComplete
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\02. Villain Name.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\refint\02. Villain Name.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\02. Villain Name.pdb
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\02. Villain Name.genruntimeconfig.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\01. Initial Setup\obj\Debug\net7.0\ref\02. Villain Name.dll

@@ -1,0 +1,14 @@
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.deps.json
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.pdb
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.AssemblyInfo.cs
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\refint\P02_FootballBetting.Data.Models.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.pdb
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\ref\P02_FootballBetting.Data.Models.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.runtimeconfig.json
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_Entity_Relations\Exercise_Entity Relations\P02_FootballBetting.Data.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.genruntimeconfig.cache

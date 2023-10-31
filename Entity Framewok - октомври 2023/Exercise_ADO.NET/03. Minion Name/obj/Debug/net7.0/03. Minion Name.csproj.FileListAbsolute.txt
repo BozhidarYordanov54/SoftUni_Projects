@@ -1,0 +1,22 @@
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\03. Minion Name.exe
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\03. Minion Name.deps.json
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\03. Minion Name.runtimeconfig.json
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\03. Minion Name.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\03. Minion Name.pdb
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\03. Minion Name.csproj.AssemblyReference.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\03. Minion Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\03. Minion Name.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\03. Minion Name.AssemblyInfo.cs
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\03. Minion Name.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\03. Minion Name.csproj.CopyComplete
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\03. Minion Name.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\refint\03. Minion Name.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\03. Minion Name.pdb
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\03. Minion Name.genruntimeconfig.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_ADO.NET\03. Minion Name\obj\Debug\net7.0\ref\03. Minion Name.dll
