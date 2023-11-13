@@ -3,6 +3,6 @@
     public static class Configuration
     {
         public const string ConnectionString =
-            @"Server=.;Database=ProductShop;Integrated Security=True";
+            @"Server=DESKTOP-TB54MG6\SQLEXPRESS;Database=ProductShop;Integrated Security=True";
     }
 }

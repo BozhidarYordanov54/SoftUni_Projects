@@ -9,12 +9,11 @@ namespace CarDealer.Models
         public decimal Price { get; set; }
 
         public int SellerId { get; set; }
-        [ForeignKey(nameof(User.Id))]
-
+        [ForeignKey(nameof(SellerId))]
+        public virtual User Seller { get; set; }
 
         public int BuyerId { get; set; }
-        [ForeignKey(nameof(User.Id))]
-
-
+        [ForeignKey(nameof(BuyerId))]
+        public virtual User Buyer { get; set; }
     }
 }
