@@ -586,7 +586,7 @@
           "System.Xml.XDocument": "4.3.0"
         }
       },
-      "Newtonsoft.Json/13.0.2": {
+      "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
           "lib/net6.0/Newtonsoft.Json.dll": {
@@ -3007,10 +3007,10 @@
         "netstandard.library.nuspec"
       ]
     },
-    "Newtonsoft.Json/13.0.2": {
-      "sha512": "R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "type": "package",
-      "path": "newtonsoft.json/13.0.2",
+      "path": "newtonsoft.json/13.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3032,7 +3032,7 @@
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "newtonsoft.json.13.0.2.nupkg.sha512",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
@@ -7048,27 +7048,27 @@
       "Microsoft.EntityFrameworkCore.Proxies >= 6.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.1",
       "Microsoft.Extensions.DependencyInjection >= 6.0.1",
-      "Newtonsoft.Json >= 13.0.2"
+      "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\UserPC\\.nuget\\packages\\": {},
+    "C:\\Users\\smvh\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni_Projects\\Entity Framewok - октомври 2023\\Exercise_JSON Processing\\CarDealer\\CarDealer\\CarDealer.csproj",
+      "projectUniqueName": "D:\\Codes\\SoftUni_Projects\\Entity Framewok - октомври 2023\\Exercise_JSON Processing\\CarDealer\\CarDealer\\CarDealer.csproj",
       "projectName": "CarDealer",
-      "projectPath": "D:\\SoftUni_Projects\\Entity Framewok - октомври 2023\\Exercise_JSON Processing\\CarDealer\\CarDealer\\CarDealer.csproj",
-      "packagesPath": "C:\\Users\\UserPC\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni_Projects\\Entity Framewok - октомври 2023\\Exercise_JSON Processing\\CarDealer\\CarDealer\\obj\\",
+      "projectPath": "D:\\Codes\\SoftUni_Projects\\Entity Framewok - октомври 2023\\Exercise_JSON Processing\\CarDealer\\CarDealer\\CarDealer.csproj",
+      "packagesPath": "C:\\Users\\smvh\\.nuget\\packages\\",
+      "outputPath": "D:\\Codes\\SoftUni_Projects\\Entity Framewok - октомври 2023\\Exercise_JSON Processing\\CarDealer\\CarDealer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\UserPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\smvh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7117,7 +7117,7 @@
           },
           "Newtonsoft.Json": {
             "target": "Package",
-            "version": "[13.0.2, )"
+            "version": "[13.0.3, )"
           }
         },
         "imports": [
@@ -7131,12 +7131,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

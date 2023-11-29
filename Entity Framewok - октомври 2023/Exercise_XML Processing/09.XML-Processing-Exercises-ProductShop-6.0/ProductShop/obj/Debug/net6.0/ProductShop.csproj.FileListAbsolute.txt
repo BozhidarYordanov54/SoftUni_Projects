@@ -1,0 +1,6 @@
+D:\Codes\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_XML Processing\09.XML-Processing-Exercises-ProductShop-6.0\ProductShop\obj\Debug\net6.0\ProductShop.csproj.AssemblyReference.cache
+D:\Codes\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_XML Processing\09.XML-Processing-Exercises-ProductShop-6.0\ProductShop\obj\Debug\net6.0\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_XML Processing\09.XML-Processing-Exercises-ProductShop-6.0\ProductShop\obj\Debug\net6.0\ProductShop.AssemblyInfoInputs.cache
+D:\Codes\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_XML Processing\09.XML-Processing-Exercises-ProductShop-6.0\ProductShop\obj\Debug\net6.0\ProductShop.AssemblyInfo.cs
+D:\Codes\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_XML Processing\09.XML-Processing-Exercises-ProductShop-6.0\ProductShop\obj\Debug\net6.0\ProductShop.csproj.CoreCompileInputs.cache
+D:\Codes\SoftUni_Projects\Entity Framewok - октомври 2023\Exercise_XML Processing\09.XML-Processing-Exercises-ProductShop-6.0\ProductShop\obj\Debug\net6.0\ProductShop.sourcelink.json
