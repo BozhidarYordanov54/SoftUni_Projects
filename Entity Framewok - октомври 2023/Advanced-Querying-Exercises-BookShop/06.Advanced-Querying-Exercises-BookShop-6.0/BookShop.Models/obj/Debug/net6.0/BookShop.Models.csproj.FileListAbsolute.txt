@@ -1,0 +1,11 @@
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.deps.json
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\bin\Debug\net6.0\BookShop.Models.pdb
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfoInputs.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.AssemblyInfo.cs
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.csproj.CoreCompileInputs.cache
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\refint\BookShop.Models.dll
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\BookShop.Models.pdb
+D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\obj\Debug\net6.0\ref\BookShop.Models.dll
