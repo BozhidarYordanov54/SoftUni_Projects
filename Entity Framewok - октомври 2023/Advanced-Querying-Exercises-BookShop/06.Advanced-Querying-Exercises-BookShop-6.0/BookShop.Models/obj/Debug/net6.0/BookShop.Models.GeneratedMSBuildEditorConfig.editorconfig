@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookShop.Models
-build_property.ProjectDir = D:\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\
+build_property.ProjectDir = D:\Codes\SoftUni_Projects\Entity Framewok - октомври 2023\Advanced-Querying-Exercises-BookShop\06.Advanced-Querying-Exercises-BookShop-6.0\BookShop.Models\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

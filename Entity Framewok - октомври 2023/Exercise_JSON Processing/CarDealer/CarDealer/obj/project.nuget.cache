@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xJoMFxychD+wuBT/jKCW3g7fFRTCHFeq5nTc7VUqg82LzRatgWYfLADOKgWMhSo0ZDjX16xyDE2JxMuxP1fQnw==",
+  "dgSpecHash": "7RtAKMpXfuDQKGDbQcXUhdt58/RFX1TWtn2a8zV+sII01CVYiUE3OML5EmtRcv9X3PK8t7C8MwZ+5UZshr/8+g==",
   "success": true,
   "projectFilePath": "D:\\Codes\\SoftUni_Projects\\Entity Framewok - октомври 2023\\Exercise_JSON Processing\\CarDealer\\CarDealer\\CarDealer.csproj",
   "expectedPackageFiles": [
@@ -125,11 +125,7 @@
     "C:\\Users\\smvh\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\smvh\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\smvh\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\smvh\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\smvh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\smvh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\smvh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\smvh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+    "C:\\Users\\smvh\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
