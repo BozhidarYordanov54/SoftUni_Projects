@@ -37,7 +37,7 @@ namespace ShoppingListApp.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Products");
+                    b.ToTable("Products", (string)null);
 
                     b.HasComment("Shopping List Product");
 
@@ -77,7 +77,7 @@ namespace ShoppingListApp.Migrations
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("ProductNotes");
+                    b.ToTable("ProductNotes", (string)null);
 
                     b.HasComment("Product Note");
                 });

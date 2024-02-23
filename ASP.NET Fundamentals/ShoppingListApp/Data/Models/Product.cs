@@ -15,6 +15,8 @@ namespace ShoppingListApp.Data.Models
         [MaxLength(50)]
         public string Name { get; set; } = string.Empty;
 
+        public string Description { get; set; } = string.Empty;
+
         public List<ProductNote> ProductNotes { get; set; } = new List<ProductNote>();
     }
 }
